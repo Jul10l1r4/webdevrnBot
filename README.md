@@ -15,4 +15,8 @@ assim o bot poderá ser chamado normalmente através da entrada, e após isso ed
 ```
 > Faça isso seguindo os padrões do cron, isso fará a verificação em 5 e 5 minutos...
 Após isso é apenas esperar o momento e seu bot já funcionará...
+
+
 **Lembrando de usar sua key para o bot do telegram e seu chat id ou group and canal id.**
+
+@WebDevRn 
