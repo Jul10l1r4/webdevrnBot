@@ -19,7 +19,7 @@ sendMsg()
 }
 live()
 {
-	curl -i -X GET $1 >> /dev/null
+	wget -q $1 >> /dev/null
 	if [ $? != 0 ];then
 					if [ "$(cat /root/.status)" != "0" ];then
 						# Change the status of response.
